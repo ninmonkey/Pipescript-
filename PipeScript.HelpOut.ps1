@@ -1,4 +1,4 @@
-#require -Module HelpOut
+#requires -Module HelpOut
 Push-Location $PSScriptRoot
 
 $PipeScriptLoaded = Get-Module PipeScript
